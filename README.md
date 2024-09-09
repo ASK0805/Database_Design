@@ -29,4 +29,6 @@ Here we used Accounts dataset which have three tables namely accountdata, accoun
 Dataset link : https://github.com/ASK0805/Database_Design/tree/main/Account%20Dataset
 
 ## Script For The Project
-![Accounts_Data_Modelling.ipynb](Accounts_Data_Modelling.ipynb)
+[Accounts_Data_Modelling.ipynb](Accounts_Data_Modelling.ipynb)
+
+
