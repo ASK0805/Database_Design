@@ -16,15 +16,17 @@ The primary goal of this project is to create a normalized and efficient databas
 
 This design will serve as a foundation for advanced data analysis, providing valuable insights into account behaviors and trends across different geographical regions and time periods.
 
-## Architecture Diagram 
+## Data Model 
 ![Database Diagram](Database_design.jpg)
 
 ## Technology Used
-Programming language : Python, SQL
-Database : Postgres
+  - Programming language : Python, SQL
+  - Database : Postgres
 
 ## Dataset Used 
 Here we used Accounts dataset which have three tables namely accountdata, account, accountseries.
 
 Dataset link : https://github.com/ASK0805/Database_Design/tree/main/Account%20Dataset
 
+## Script For The Project
+![Accounts_Data_Modelling.ipynb](Accounts_Data_Modelling.ipynb)
