@@ -12,7 +12,7 @@ accountcountry: Stores information about the countries associated with each acco
 
 accountseries: It conatins columns like code, topic, Indicator name, long definition, source 
 
-The primary goal of this project is to create a normalized and efficient database structure that supports data integrity, quick access, and scalability. Additionally, Python scripts are developed to facilitate data manipulation, validation, and integration tasks, leveraging libraries like SQLAlchemy and Pandas for database interaction and data processing.
+The primary goal of this project is to create a normalized and efficient database structure that supports data integrity, quick access, and scalability. Additionally, Python scripts are developed to facilitate data manipulation, validation, and integration tasks, leveraging libraries like Pandas for database interaction and data processing.
 
 This design will serve as a foundation for advanced data analysis, providing valuable insights into account behaviors and trends across different geographical regions and time periods.
 
