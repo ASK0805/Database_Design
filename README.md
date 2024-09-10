@@ -31,4 +31,20 @@ Dataset link : https://github.com/ASK0805/Database_Design/tree/main/Account%20Da
 ## Script For The Project
 [Accounts_Data_Modelling.ipynb](Accounts_Data_Modelling.ipynb)
 
+## Steps Involve In Project 
+Here we divide our project in 3 stages :
+### Stage 1 :
+To start, we cleaned our dataset by removing unnecessary columns using Pandas. From the AccountCountry dataset, we selected relevant columns such as Code, Long Name, Income Group, Region, and Currency Unit. For the AccountData dataset, we focused on columns like Country Name, Country Code, Series Name, Series Code, and data for the years 1995 [YR1995], 2000 [YR2000], 2005 [YR2005], 2010 [YR2010], and 2014 [YR2014]. Lastly, in the AccountSeries dataset, we selected columns including Code, Topic, Indicator Name, Long Definition, and Source.
+
+### Stage 2 :
+In this stage, we first established a connection to our database using the host, database name, password, and other required credentials. After connecting, we created a new database named accounts and used it for creating our tables. We created three tables: accountcountry, accountdata, and accountseries, all of which are connected through primary keys.
+
+### Stage 3 :
+At the last we insert all the data into table by using python one by one.
+
+
+
+
+
+
 
